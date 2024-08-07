@@ -1,5 +1,8 @@
 # 🎮 中文 DOS 游戏
 
+网址： https://dos.lol
+
+
 中文 DOS 游戏合集，目前共有 1898 款游戏。
 
 ## 下载游戏文件
@@ -14,7 +17,7 @@ python download_data.py
 
 ## 游戏列表
 
-参见 https://dos.zczc.cz/games
+参见 https://dos.lol/games
 
 ## IPFS
 
